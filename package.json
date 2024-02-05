@@ -11,6 +11,10 @@
     "url": "https://github.com/VBsoftwareng/remove-the-badvibes.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+  "author": "Veronica Barreda",
+  "license": "IMIT",
+  "bugs": {
+    "url": "https://github.com/VBsoftwareng/remove-the-badvibes/issues"
+},
+"homepage": "https://github.com/VBsoftwareng/remove-the-badvibes"
+  }
